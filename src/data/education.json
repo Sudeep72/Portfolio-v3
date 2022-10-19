@@ -1,20 +1,20 @@
 [
   {
-    "icon": "../images/education/uoft.png",
-    "title": "University of Toronto",
-    "subtitle": "Computer Science & Mathematics",
-    "period": "2014 - 2019"
+    "icon": "../images/education/au.png",
+    "title": "Anna University",
+    "subtitle": "Computer Science & Engineering",
+    "period": "2021 - 2025"
   },
   {
-    "icon": "../images/education/ib.png",
+    "icon": "../images/education/bibf.png",
     "title": "Modern Knowledge School",
     "subtitle": "International Baccalaureate",
     "period": "2012 - 2014"
   },
   {
-    "icon": "../images/education/bibf.png",
-    "title": "Bahrain Institute of Banking & Finance",
-    "subtitle": "Crown Prince Scholarship",
-    "period": "2012 - 2014"
+    "icon": "../images/education/uoft.png",
+    "title": "Bharathi Kids Kshethralaya",
+    "subtitle": "Primary Education",
+    "period": "2005 - 2019"
   }
 ]
