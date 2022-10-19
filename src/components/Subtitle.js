@@ -14,7 +14,7 @@ const Subtitle = ({ onDone }) => (
       <div>
         <span className="text-blue-600">traits</span>
         []{" "}
-        <span className="text-orange-400">novatorem</span>{" "}
+        <span className="text-orange-400">Sudeep</span>{" "}
         <span className="text-blue-600">=</span> {"{"}
       </div>
       <div className="lg:pl-8">
@@ -22,6 +22,7 @@ const Subtitle = ({ onDone }) => (
         <span className="text-red-500">Reader</span>,{" "}
         <span className="text-red-500">Curator</span>,{" "}
         <span className="text-red-500">Techie</span>,{" "}
+        <span className="text-red-500">Cyber Security Enthusiast</span>,{" "}
       </div>
       <div className="lg:pl-8">
         <span className="text-red-500">...</span>{" "}
