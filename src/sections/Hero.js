@@ -56,14 +56,14 @@ const Hero = () => {
         </div>
         <div className="col-span-3">
           <h1 className="sr-only">
-            Andrew Novac's Home on the Web
-            University of Toronto - Computer Science & Mathematics
+            Sudeep's Home on the Web
+            Anna University - Computer Science & Engineering
           </h1>
 
           <div className="text-center lg:text-left flex flex-col items-center lg:ml-4 lg:items-start">
             <h1 className={`${styles.header} leading-tight`}>
               <span class="bg-clip-text text-transparent bg-gradient-to-br from-blue-700 via-blue-500 to-teal-400">
-                Hi, I'm Andrew
+                Hi, I'm Sudeep
               </span> <br />
             </h1>
             

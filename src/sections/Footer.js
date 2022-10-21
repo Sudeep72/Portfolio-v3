@@ -16,7 +16,7 @@ const Footer = () => {
 
   return (
     <section id="footer">
-      <Heading icon={FaInfoCircle} title="About novac.dev" />
+      <Heading icon={FaInfoCircle} title="About Sudeep.dev" />
 
       <div
         className="text-justify w-full md:w-4/5 lg:w-3/4 wow fadeIn -mb-4"
@@ -33,14 +33,14 @@ const Footer = () => {
         title="Check it out on Github!"
         onClick={() =>
           window.open(
-            "https://github.com/Novatorem/Website",
+            "https://github.com/Sudeep72/Website-1",
             "_blank",
           )
         }
       /> */}
 
       <div className="pt-8 pb-8 text-xs leading-relaxed opacity-25">
-        <div>Copyleft {new Date().getFullYear()} Novatorem</div>
+        <div>Copyright {new Date().getFullYear()} Sudeep</div>
       </div>
     </section>
   );
