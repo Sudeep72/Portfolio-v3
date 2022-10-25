@@ -1,45 +1,33 @@
 [
   {
-    "image": "../images/projects/melodify.png",
-    "title": "Melodify",
-    "description": "Spotify interface with user stats, music videos, pane views, suggestions, and more",
-    "tags": ["cSharp", "wpf", "spotify", "api"],
-    "website": "https://github.com/novatorem/Melodify"
+    "image": "../images/projects/brhub.png",
+    "title": "Brainy Hub",
+    "description": "Interactive Quiz website that helps people spending their time in a useful way",
+    "tags": ["React", "Api"],
+    "website": "https://www.kui-z.tech",
+    "github": "https://github.com/Sudeep72/Kuizz"
   },
   {
-    "image": "../images/projects/coverhack.png",
-    "title": "Cover Hack",
-    "description": "Create custom cover letters where users can input reactive fields",
-    "tags": ["react", "mongoose", "node", "fullstack"],
-    "website": "https://cover-hack.novac.dev/",
-    "github": "https://github.com/novatorem/Cover-Hack"
+    "image": "../images/projects/kuiz.png",
+    "title": "Kuiz",
+    "description": "Simple quiz website",
+    "tags": ["Html", "Css", "Js", "Api"],
+    "website": "https://kuiz.kui-z.tech/",
+    "github": "https://github.com/Sudeep72/kuiz"
   },
   {
-    "image": "../images/projects/streamweaver.png",
-    "title": "StreamWeaver",
-    "description": "A cross-platform application for virtual events and performances, transmitting data globally",
-    "tags": ["c#", "networking", "srt", "cross-platform"],
-    "github": "https://www.liminalet.com/streamweaver-lite"
+    "image": "../images/projects/weat.png",
+    "title": "Weather",
+    "description": "Interactive website that shows the weather of the place when you search it",
+    "tags": ["React", "Tailwind", "Api"],
+    "website": "https://weather.sudeepdev.software",
+    "github": "https://github.com/Sudeep72/kuiz"
   },
   {
-    "image": "../images/projects/robotics.png",
-    "title": "Robotics",
-    "description": "Collision detection, integrated motion planning, dynamic tracking, and pathing",
-    "tags": ["python", "robots", "paths", "algorithms"],
-    "github": "https://github.com/novatorem/Robotics"
-  },
-  {
-    "image": "../images/projects/facial.png",
-    "title": "FacialRecognition",
-    "description": "A trained python program that takes an mp4 and identifies all faces in the video",
-    "tags": ["numpy", "ml", "ai", "cv"],
-    "github": "https://github.com/novatorem/FacialRecognition"
-  },
-  {
-    "image": "../images/projects/era.png",
-    "title": "Emergency Response Aid",
-    "description": "Team application designed as an intermediatery to help users seek medical attention",
-    "tags": ["android", "java", "mongodb", "app"],
-    "github": "https://github.com/novatorem/ERA-Emergency-Response-Aid"
+    "image": "../images/projects/collates.png",
+    "title": "Collates",
+    "description": "Price Comapring website that is user friendly",
+    "tags": ["React", "NextJs", "Chakra UI", "Api"],
+    "website": "https://collates.me"
   }
 ]

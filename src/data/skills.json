@@ -1,42 +1,57 @@
 [
   {
-    "icon": "../images/skills/dotnet.png",
-    "name": ".NET Development",
-    "tech": "C# | Core | ASP"
+    "icon": "../images/skills/git.png",
+    "name": "DevOps",
+    "tech": "Github | Gitlab"
   },
   {
     "icon": "../images/skills/database.png",
     "name": "Database Management System",
-    "tech": "MySQL | MariaDB | MongoDB"
+    "tech": "MySQL | MongoDB"
   },
   {
-    "icon": "../images/skills/tensorflow.png",
-    "name": "Machine Learning",
-    "tech": "OpenCV | TensorFlow | Numpy"
+    "icon": "../images/skills/netlify.png",
+    "name": "Cloud Services",
+    "tech": "Vercel | Netlify | Heroku | Azure"
   },
   {
     "icon": "../images/skills/python.png",
-    "name": "Python Programming",
-    "tech": "Python 3 | BeautifulSoup | PyMongo"
+    "name": "Programming Languages",
+    "tech": "Python | C | JavaScript | PHP"
   },
   {
-    "icon": "../images/skills/visual.png",
-    "name": "Visual & Networking",
-    "tech": "C++ | Unreal | Unity"
+    "icon": "../images/skills/vscode.png",
+    "name": "IDEs",
+    "tech": "Visual Studio Code | Gitpod | Replit"
   },
   {
-    "icon": "../images/skills/react.png",
-    "name": "Frontend Javascript Frameworks",
-    "tech": "React | Vue.js | HandleBars"
+    "icon": "../images/skills/vite.png",
+    "name": "Frontend Frameworks",
+    "tech": "React | Vue.js | Vite.js | Gatsby | Nuxt.js"
   },
   {
-    "icon": "../images/skills/nodejs.png",
-    "name": "Backend Javascript Frameworks",
-    "tech": "Node.js | Express.js | Mongoose"
+    "icon": "../images/skills/nextjs.png",
+    "name": "Backend Frameworks",
+    "tech": "Node.js | Next.js"
   },
   {
-    "icon": "../images/skills/android.png",
-    "name": "Android App Development",
-    "tech": "Java | Kotlin | XML"
+    "icon": "../images/skills/Tailwind.png",
+    "name": "React Libraries",
+    "tech": "Tailwind CSS | Chakra UI"
+  },
+  {
+    "icon": "../images/skills/mui.png",
+    "name": "Mobile Library",
+    "tech": "Material UI"
+  },
+  {
+    "icon": "../images/skills/firebase.png",
+    "name": "SDK",
+    "tech": "Firebase"
+  },
+  {
+    "icon": "../images/skills/style.png",
+    "name": "Css Frameworks",
+    "tech": "Styled Components | Tailwind | Bootstrap"
   }
 ]

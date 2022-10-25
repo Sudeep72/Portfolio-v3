@@ -15,7 +15,7 @@ const Navigation = () => {
     query {
       icon: file(relativePath: { eq: "icon.png" }) {
         childImageSharp {
-          fixed(width: 32, height: 32) {
+          fixed(width: 50, height: 50) {
             ...GatsbyImageSharpFixed_withWebp
           }
         }
