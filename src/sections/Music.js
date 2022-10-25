@@ -16,13 +16,9 @@ const Music = () => {
     <section id="music">
       <Heading icon={MdMusicNote} title="Music" />
 
-      <div
-        className="text-justify lg:col-span-4 wow fadeIn"
-        dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}
-      />
-
+      
       <iframe
-        src="https://open.spotify.com/embed/playlist/37i9dQZF1EporX1WaV5moq"
+        src="https://open.spotify.com/embed/playlist/37i9dQZF1DWX83CujKHHOn"
         width="100%"
         height="500"
         frameBorder="0"
@@ -33,5 +29,6 @@ const Music = () => {
     </section>
   );
 };
+
 
 export default Music;
