@@ -6,16 +6,16 @@ require(`dotenv`).config({ path: `.env` });
 
 module.exports = {
   siteMetadata: {
-    title: `Andrew Novac`,
-    description: `The home page of Andrew Novac, one of many! A software developer currently living in Toronto, Canada.`,
-    author: `Andrew Novac`,
-    siteUrl: `https://novac.dev`,
+    title: `Sudeep`,
+    description: `The home page of Sudeep, one of many! A software developer currently living in Tamil Nadu, India.`,
+    author: `Sudeep`,
+    siteUrl: `https://sudeepdev.software`,
   },
   plugins: [
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://novac.dev`,
+        siteUrl: `https://sudeepdev.software`,
       },
     },
     {
@@ -28,8 +28,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-robots-txt`,
       options: {
-        host: `https://novac.dev`,
-        sitemap: `https://novac.dev/sitemap.xml`,
+        host: `https://sudeepdev.software`,
+        sitemap: `https://sudeepdev.software/sitemap.xml`,
         policy: [{ userAgent: `*`, allow: `/` }],
       },
     },
@@ -38,8 +38,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Andrew Novac`,
-        short_name: `Andrew Novac`,
+        name: `Sudeep`,
+        short_name: `Sudeep`,
         start_url: `/`,
         background_color: fullConfig.theme.colors.white,
         theme_color: fullConfig.theme.colors.white,
