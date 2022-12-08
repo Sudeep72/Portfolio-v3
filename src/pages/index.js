@@ -1,7 +1,6 @@
 import React from "react";
 import Wrapper from "../components/Wrapper";
 import AboutMe from "../sections/AboutMe";
-import Achievements from "../sections/Achievements";
 import Qualifications from "../sections/Qualifications";
 import Education from "../sections/Education";
 import Footer from "../sections/Footer";

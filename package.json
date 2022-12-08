@@ -1,8 +1,8 @@
 {
-  "name": "andrewnovac",
-  "description": "The home page of Andrew Novac, one of many! A software developer currently living in Toronto, Canada.",
+  "name": "Sudeep",
+  "description": "The home page of Sudeep, one of many! An emerging software developer currently living in Tamil Nadu, India.",
   "version": "1.0.0",
-  "author": "Andrew Novac",
+  "author": "Sudeep",
   "dependencies": {
     "@material-ui/core": "^4.9.14",
     "@sendgrid/mail": "^7.1.1",
@@ -70,9 +70,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Novatorem/Website"
+    "url": "https://github.com/Sudeep72/Website-11"
   },
   "bugs": {
-    "url": "https://github.com/Novatorem/Website/issues"
+    "url": "https://github.com/Sudeep/Website-1/issues"
   }
 }
