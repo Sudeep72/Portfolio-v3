@@ -10,7 +10,7 @@ Hosting thanks to [Vercel](https://www.vercel.com/), domain from [Name.com](http
 If you would like to peek around the code, the complete source with instructions can be found on [GitHub](https://github.com/Novatorem/Website).  
 Otherwise, to navigate to one of the other publically accessible pages, choose from one of the links below!
 
-<table width="80%" margin-top="-50px" margin-left="-20px"> 
+<!--<table width="80%" margin-top="-50px" margin-left="-20px"> 
   <tr>
   <td width="20%">
 
@@ -42,6 +42,6 @@ Otherwise, to navigate to one of the other publically accessible pages, choose f
 [404](https://novac.dev/404)‌‌
 </p>
   </td>
-  </table>
+  </table>!-->
 
 As for my social presence, you can find me via:
